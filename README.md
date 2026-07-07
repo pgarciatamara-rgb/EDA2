@@ -78,3 +78,5 @@ Agregar una sección de limpieza con estas opciones:
 ## Licencia
 
 MIT. El estudiante puede reutilizar y modificar el proyecto dando el crédito correspondiente.
+
+## Elaborado por: Pamela García
